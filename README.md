@@ -7,6 +7,7 @@ Extra installed packages:
 * curl
 * bash
 * bash-completion
+* findutils
 * vim
 * tar
 * wget
